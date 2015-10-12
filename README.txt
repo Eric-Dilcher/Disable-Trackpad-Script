@@ -2,4 +2,4 @@ This bash script was created to solve the problem that my linux distribution, Ub
 
 A comment at the top of the shell script details how to use it.
 
-This script has only been tested on a Lenovo Thinkpad T420 under Ubuntu 14.04.
+This script has only been tested on a Lenovo Thinkpad T420 running Ubuntu 14.04.
